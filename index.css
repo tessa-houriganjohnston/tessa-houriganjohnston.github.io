@@ -1,0 +1,40 @@
+
+.rectangle-block {
+  height: 30%;
+  max-width: fit-content;
+  background-size: cover;
+  background-position: center;
+}
+
+
+.header-image {
+  border-color:black;
+  border-width: ;
+  border-style:inset;
+  width: ;
+  border-radius: ;
+}
+
+.opening-text {
+  font-size: ;
+  font-family:'Rubik Moonrocks', cursive;
+  color: black;
+}
+
+.secondary-text {
+  font-size: ;
+  font-family: ;
+  color: darkgray;
+}
+
+.content-text {
+  font-size: ;
+  font-family: ;
+  color: darkgray;
+}
+
+.navigation-bar {
+  font-size: ;
+  font-family: ;
+  colour: ;
+}

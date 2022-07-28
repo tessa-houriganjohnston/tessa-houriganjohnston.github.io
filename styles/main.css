@@ -4,7 +4,7 @@
 }
 
 /* Media Query - Tablet */
-@media screen and (max-width: 768px) {
+@media screen and (min-width: 321px) and (max-width: 768px) {
   background-color:#FFEBC1
 }
 

@@ -1,6 +1,18 @@
-body {
+/* Media Query - Mobile */
+@media screen and (max-width: 320px) {
   background-color:#FFEBC1
 }
+
+/* Media Query - Tablet */
+@media screen and (max-width: 768px) {
+  background-color:#FFEBC1
+}
+
+/* Media Query - Desktop */
+@media screen and (min-width: 1200px) {
+  background-color:#FFEBC1
+}
+
 h1 {
   font-family: Helvetica; 
   font-weight: bold;

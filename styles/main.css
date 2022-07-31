@@ -1,16 +1,22 @@
 /* Media Query - Mobile */
 @media screen and (max-width: 320px) {
-  background-color:#FFEBC1
+  body {
+    background-color:#FFEBC1
+  }
 }
 
 /* Media Query - Tablet */
 @media screen and (min-width: 321px) and (max-width: 768px) {
-  background-color:#FFEBC1
+  body {
+    background-color: antiquewhite;
+  }
 }
 
 /* Media Query - Desktop */
 @media screen and (min-width: 1200px) {
-  background-color:#FFEBC1
+  body {
+    background-color: aliceblue;
+  }
 }
 
 h1 {
